@@ -1,5 +1,7 @@
 # webproject
 
+Example use of the assembly of mitosis for cross-Framivore libraries of components
+
 To install dependencies:
 
 ```bash
